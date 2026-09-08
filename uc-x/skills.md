@@ -20,4 +20,4 @@
   output:
     type: "string"
     format: "A single-source response complete with document name and section citations, or a rigid literal refusal text block."
-  error_handling: "If the question cannot be safely answered from a single isolated reference segment, defaults directly to emitting the exact required system refusal structure."
+  error_handling: "If the question cannot be safely answered from a single isolated reference segment, defaults directly to emitting the exact required system refusal structure." 
