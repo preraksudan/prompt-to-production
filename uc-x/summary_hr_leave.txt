@@ -1,0 +1,27 @@
+--- UC-X SYSTEM OUTPUT ---
+Source File: ../data/policy-documents/policy_hr_leave.txt
+
+CITY MUNICIPAL CORPORATION
+HUMAN RESOURCES DEPARTMENT
+EMPLOYEE LEAVE POLICY
+Document Reference: HR-POL-001
+Version: 2.3 | Effective: 1 April 2024
+
+═══════════════════════════════════════════════════════════
+1. PURPOSE AND SCOPE
+═══════════════════════════════════════════════════════════
+1.1 This policy governs all leave entitlements for permanent and
+    contractual employees of the City Municipal Corporation (CMC).
+1.2 This policy does not apply to daily wage workers or consultants.
+    Those categories are governed by their respective contracts.
+
+═══════════════════════════════════════════════════════════
+2. ANNUAL LEAVE
+═══════════════════════════════════════════════════════════
+2.1 Each permanent employee is entitled to 18 days of paid annual
+    leave per calendar year.
+2.2 Annual leave accrues at 1.5 days per month from the date of
+    joining.
+2.3 Employees must submit a leave application at least 14 calendar
+    days in advance using Form HR-L1.
+2.4 Leave applications must rece
